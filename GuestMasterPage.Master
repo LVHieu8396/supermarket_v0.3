@@ -104,5 +104,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </script>
         <!-- //main slider-banner -->
     </form>
+	<script type="text/javascript">
+		window._mfq = window._mfq || [];
+		(function() {
+			var mf = document.createElement("script");
+			mf.type = "text/javascript"; mf.async = true;
+			mf.src = "//cdn.mouseflow.com/projects/0f59a983-5e62-4e06-8b01-42b1ccc01aa7.js";
+			document.getElementsByTagName("head")[0].appendChild(mf);
+		})();
+	</script>
 </body>
 </html>
